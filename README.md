@@ -35,6 +35,10 @@ The architecture consists of three main components:
 
 The complete workflow:
 **Speech Input → Whisper ASR → LLaMA-2 via LangChain → ChatterBox TTS → Audio Output**
+---
+
+## Architecture
+![Architecture Diagram](./architecture.png)
 
 ---
 
