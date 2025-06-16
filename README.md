@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a fully offline, real-time voice assistant that combines automatic speech recognition (ASR), large language models (LLMs), and text-to-speech synthesis (TTS) — all running locally without requiring any cloud services. The assistant can listen, understand, and respond to user queries in natural conversation, similar to virtual assistants like Siri or Alexa, but entirely offline and customizable.
+This project implements a fully offline, real-time voice assistant that combines automatic speech recognition (ASR), large language models (LLMs), and text-to-speech synthesis (TTS), all running locally without requiring any cloud services. The assistant can listen, understand, and respond to user queries in natural conversation, similar to virtual assistants like Siri or Alexa, but entirely offline and customizable.
 
 Key features include:
 
