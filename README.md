@@ -120,5 +120,3 @@ python app.py --model llama2
 | On-device Latency | Reduced by 41%  |
 | Emotion Control   | Fully supported |
 | Voice Cloning     | Fully supported |
-
----
