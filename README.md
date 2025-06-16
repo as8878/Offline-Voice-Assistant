@@ -51,22 +51,14 @@ The complete workflow:
 ---
 
 ## Setup Instructions
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/<your-repo>/offline-voice-assistant.git
-cd offline-voice-assistant
-```
-
-### 2️⃣ Install Dependencies
+### 1️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 python -c "import nltk; nltk.download('punkt')"
 ```
 
-### 3️⃣ Install & Setup Ollama
+### 2️⃣ Install & Setup Ollama
 
 Follow instructions at [https://ollama.ai](https://ollama.ai) to install Ollama.
 Pull your preferred model:
@@ -75,7 +67,7 @@ Pull your preferred model:
 ollama pull llama2
 ```
 
-### 4️⃣ Start Application
+### 3️⃣ Start Application
 
 ```bash
 python app.py
@@ -140,27 +132,3 @@ python app.py --model llama2
 * Multilingual conversation support
 
 ---
-
-## Credits
-
-* Whisper (OpenAI): [https://github.com/openai/whisper](https://github.com/openai/whisper)
-* Ollama: [https://ollama.ai](https://ollama.ai)
-* ChatterBox TTS: [https://github.com/resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
-* LangChain: [https://github.com/langchain-ai](https://github.com/langchain-ai)
-
----
-
-**This project demonstrates how full-scale conversational AI can run entirely offline by combining modern speech recognition, large language models, and TTS synthesis — making it highly suitable for private, personalized, and low-latency applications.**
-
----
-
-✅ **You can directly copy-paste this entire text into your README.md file.**
-
----
-
-If you want — I can now also create:
-
-* ✅ **Short project description for your resume**
-* ✅ **Short LinkedIn description headline for this project**
-
-Shall I generate those? 🔥
