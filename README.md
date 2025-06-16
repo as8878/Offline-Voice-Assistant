@@ -33,8 +33,6 @@ The architecture consists of three main components:
    * ChatterBox TTS from Resemble AI is used for generating lifelike speech.
    * Supports voice cloning, emotion control, and expressive responses.
 
-The complete workflow:
-**Speech Input → Whisper ASR → LLaMA-2 via LangChain → ChatterBox TTS → Audio Output**
 ---
 
 ## Architecture
