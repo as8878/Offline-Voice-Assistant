@@ -38,7 +38,7 @@ The complete workflow:
 ---
 
 ## Architecture
-![Architecture Diagram](./Blank diagram - Page 1 (3).png)
+![Architecture Diagram](https://github.com/as8878/Offline-Voice-Assistant/blob/c5bdc436a4326d1be453ad11ef47761af5a11d61/Blank%20diagram%20-%20Page%201%20(3).png)
 
 ---
 
