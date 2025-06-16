@@ -38,7 +38,7 @@ The complete workflow:
 ---
 
 ## Architecture
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./Blank diagram - Page 1 (3).png)
 
 ---
 
