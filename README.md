@@ -122,13 +122,3 @@ python app.py --model llama2
 | Voice Cloning     | Fully supported |
 
 ---
-
-## Future Work
-
-* GUI interface
-* Wake-word detection integration
-* Real-time streaming interface
-* On-device continual learning for personalization
-* Multilingual conversation support
-
----
