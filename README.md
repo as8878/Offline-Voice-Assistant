@@ -50,31 +50,6 @@ The complete workflow:
 
 ---
 
-## Setup Instructions
-### 1️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-python -c "import nltk; nltk.download('punkt')"
-```
-
-### 2️⃣ Install & Setup Ollama
-
-Follow instructions at [https://ollama.ai](https://ollama.ai) to install Ollama.
-Pull your preferred model:
-
-```bash
-ollama pull llama2
-```
-
-### 3️⃣ Start Application
-
-```bash
-python app.py
-```
-
----
-
 ## Advanced Usage
 
 ### Voice Cloning
